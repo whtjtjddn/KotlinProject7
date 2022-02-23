@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804389405213",
+    "project_id": "pushalarmtestapplication-9df71",
+    "storage_bucket": "pushalarmtestapplication-9df71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804389405213:android:f08f16ebf6f3207f7f3cf4",
+        "android_client_info": {
+          "package_name": "com.example.kotlinproject7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804389405213-kcajaav9r5dn020dp6b22no6ujlubl65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3IpidZ430LG4leSRlSult1dhEMS4-R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804389405213-kcajaav9r5dn020dp6b22no6ujlubl65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
